@@ -1,0 +1,263 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Francisco",
+      "surnames": "Javier Gutiérrez Pérez",
+      "title": "Software Developer | RUP | JavaDev",
+      "description": "Como Desarrollador de Software independiente he construido numerosas aplicaciones con Spring Boot y Angular en distintas versiones.\nDicha independencia no es un obstáculo para integrarme de forma inmediata en equipos con procesos de desarrollo tanto ágiles (Scrum y eXtreme Programming), como pesados (RUP) debido a amplios conocimientos sobre los mismos.\nLo que más valoro en una empresa es la calidad del equipo tanto a nivel humano como técnico y el uso de las buenas prácticas.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/f8e2b11e-8797-4516-867b-96e366bd5a25_linkedin-photo-17095.linkedin-photo-17095",
+        "alt": "24/07/12/f8e2b11e-8797-4516-867b-96e366bd5a25_linkedin-photo-17095.linkedin-photo-17095"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJEdGa42n2cg0R5Eit4ojxuQY)",
+        "country": "España",
+        "region": "Andalusia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/franciscoguti"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/gutifer666"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/javigutiblogger"
+      },
+      {
+        "type": "other",
+        "URL": "https://javiergutierrez.trade/",
+        "description": "Javier Gutiérrez"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones web",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "MEDAC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/2e493cdd-2b8a-4b14-937c-ce6d963056f5_linkedin-photo-17095.linkedin-photo-17095",
+            "alt": "24/07/12/2e493cdd-2b8a-4b14-937c-ce6d963056f5_linkedin-photo-17095.linkedin-photo-17095"
+          }
+        },
+        "finishDate": "2024-03-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Programación informática",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "42 The Network",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/12/2e218368-e6ac-4451-b566-215f2da4096f_linkedin-photo-17095.linkedin-photo-17095",
+            "alt": "24/07/12/2e218368-e6ac-4451-b566-215f2da4096f_linkedin-photo-17095.linkedin-photo-17095"
+          }
+        },
+        "finishDate": "2024-06-30"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/franciscoguti",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gutifer666",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/javigutiblogger",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "gutifer666@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Me gustaría in trabajo que tubiera grandes retos tecnológicos. Trabajar con gente que sea un referente ensu área y así tener una buena mentorización para poder crecer dentro de la empresa.",
+    "goodPractices": "Intento aplicar TDD tanto como puedo. Me parece importante redactar código bien documentado, ya sea porque es descriptivo, como por haber explicado qué buscaba en relación con la funcionalidad que buscaba implementar. Aprecio trabajar con programación en parejas. Por supuesto, sigo leyendo y aprendiendo a través de libros y eventos centrados en buenas prácticas, todos hemos leído «Clean Code» (me encanta «Uncle Bob») y «Refactoring», pero hoy en día no puedes quedarte solo ahí."
+  }
+}
