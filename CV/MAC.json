@@ -245,6 +245,10 @@
         "type": "technology"
       },
       {
+        "name": "JUnit",
+        "type": "technology"
+      },
+      {
         "name": "Java",
         "type": "technology"
       },
